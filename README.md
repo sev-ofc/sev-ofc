@@ -1,4 +1,4 @@
-### My name is sev!
+### My name is sev! Most of my work is private so don't expect much here!
   - ⚡ Typescript & Node.JS Developer
   - 🤖 Discord bot specialist
   - 📫 How to reach me: [Discord](https://discord.com/users/258757935377809409)
