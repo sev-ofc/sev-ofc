@@ -6,8 +6,9 @@
 ### About Me:
   - I am completely self-taught
   - I am in high school
-To learn more, head over to [My Card](https://sev-ofc.carrd.co/)
 
+To learn more, head over to [My Card](https://sev-ofc.carrd.co/)
+<br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
  <br>
 <a href="https://github.com/sev-ofc">
